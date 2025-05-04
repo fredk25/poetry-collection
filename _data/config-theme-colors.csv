@@ -1,9 +1,9 @@
 color_class,color
 primary, #93A7AA
 secondary, #DBD3D8
-success,
-info,
-warning,
-danger,
-light,
-dark,
+success, #93A7AA
+info, #DBD3D8
+warning, #93A7AA
+danger, #DBD3D8
+light, #93A7AA
+dark, #DBD3D8
